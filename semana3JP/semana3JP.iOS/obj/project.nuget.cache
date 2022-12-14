@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jqg7nxPj2v13oZP0xSwwG11G612G57ZqjXkhDDEFoGYCNF2VC08pvcUKmYhuqKXTkKUOh2+w3Mh96PPcRRWh/A==",
+  "success": true,
+  "projectFilePath": "/Users/juanito/Projects/semana3JP/semana3JP/semana3JP.iOS/semana3JP.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanito/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/juanito/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/juanito/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
