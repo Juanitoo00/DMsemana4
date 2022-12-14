@@ -7,7 +7,7 @@
 
       <Label Text="LOGIN" FontSize="20" HorizontalOptions="Center"></Label>
       
-      <Grid >
+      <Grid >  
           <Grid.RowDefinitions>
               <RowDefinition>
               </RowDefinition>
