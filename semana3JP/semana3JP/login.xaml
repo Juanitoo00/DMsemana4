@@ -6,6 +6,7 @@
   <StackLayout VerticalOptions="Center">
 
       <Label Text="LOGIN" FontSize="20" HorizontalOptions="Center"></Label>
+      <Label Text="LOGIN" FontSize="20" HorizontalOptions="Prueba"></Label>
       <Grid >
           <Grid.RowDefinitions>
               <RowDefinition>
