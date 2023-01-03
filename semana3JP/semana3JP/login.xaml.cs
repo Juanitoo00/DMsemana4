@@ -14,8 +14,8 @@ namespace semana3JP
 
         void btnIniciar_Clicked(System.Object sender, System.EventArgs e)
         {
-            string usuario = "juan";
-            string contrasena = "12345";
+            string usuario = "estudiante2022";
+            string contrasena = "uisrael2022";
             if (usuario == Usuario.Text && contrasena == Password.Text)
             {
 

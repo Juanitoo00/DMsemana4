@@ -1,0 +1,17 @@
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/bin/Debug/netstandard2.0/semana3JP.deps.json
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/bin/Debug/netstandard2.0/semana3JP.dll
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/bin/Debug/netstandard2.0/ref/semana3JP.dll
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/bin/Debug/netstandard2.0/semana3JP.pdb
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.csproj.AssemblyReference.cache
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/login.xaml.g.cs
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/Registro.xaml.g.cs
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.AssemblyInfoInputs.cache
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.AssemblyInfo.cs
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.csproj.CoreCompileInputs.cache
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.dll
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/ref/semana3JP.dll
+/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/obj/Debug/netstandard2.0/semana3JP.pdb
