@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "KG+qY0l9HfwjRaqY5P0T/YQ4veRe2uF/6VRGttRZOKQ7s75jBW/ysjn4o1lZ2GmLDaJAbBNIv5FUOzqqPYqw4w==",
+  "dgSpecHash": "ZX2FC7/5X+rdscoI+Z1Fmh+KO1SyEgryrldl83gan0mVB8tZcR1qEW34PYqFj+zGRg/VOfptpimz45byM93Rxw==",
   "success": true,
   "projectFilePath": "/Users/juanito/Projects/semana3JP/semana3JP/semana3JP/semana3JP.csproj",
   "expectedPackageFiles": [
     "/Users/juanito/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/juanito/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/juanito/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/juanito/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/juanito/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "/Users/juanito/.nuget/packages/xamarin.essentials/1.7.4/xamarin.essentials.1.7.4.nupkg.sha512",
+    "/Users/juanito/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512"
   ],
   "logs": []
 }

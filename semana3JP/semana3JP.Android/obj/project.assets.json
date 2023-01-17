@@ -1780,8 +1780,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
+          "Xamarin.Essentials": "1.7.4",
+          "Xamarin.Forms": "5.0.0.2545"
         },
         "compile": {
           "bin/placeholder/semana3JP.dll": {}
@@ -3453,5 +3453,27 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.4 to 1.7.0. Reference the package directly from the project to select a different version. \n semana3JP.Android -> semana3JP -> Xamarin.Essentials (>= 1.7.4) \n semana3JP.Android -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v13.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2545 to 5.0.0.2196. Reference the package directly from the project to select a different version. \n semana3JP.Android -> semana3JP -> Xamarin.Forms (>= 5.0.0.2545) \n semana3JP.Android -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v13.0"
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ubfwxxtQF2FEyq+9cj38L6zPZkRcJI/RslwAwA115mMXSItWAlDVT1I0wD1v577Xxdq1zzdFglAdGD3VGHs+Mg==",
+  "dgSpecHash": "ZwsUCtqNGOBNcKI8rSsoiL9t6XxFfG4tfwHxtL1shMSECHb5gwCoY9xdf5UBZSdDnEPnxfU5dKMElNIysqLylQ==",
   "success": true,
   "projectFilePath": "/Users/juanito/Projects/semana3JP/semana3JP/semana3JP.Android/semana3JP.Android.csproj",
   "expectedPackageFiles": [
@@ -63,5 +63,26 @@
     "/Users/juanito/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "/Users/juanito/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.4 to 1.7.0. Reference the package directly from the project to select a different version. \n semana3JP.Android -> semana3JP -> Xamarin.Essentials (>= 1.7.4) \n semana3JP.Android -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v13.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2545 to 5.0.0.2196. Reference the package directly from the project to select a different version. \n semana3JP.Android -> semana3JP -> Xamarin.Forms (>= 5.0.0.2545) \n semana3JP.Android -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v13.0"
+      ]
+    }
+  ]
 }

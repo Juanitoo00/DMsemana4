@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jqg7nxPj2v13oZP0xSwwG11G612G57ZqjXkhDDEFoGYCNF2VC08pvcUKmYhuqKXTkKUOh2+w3Mh96PPcRRWh/A==",
+  "dgSpecHash": "E5idlbdOedOSzTQFsCV6GC+7CS2u4LxbCXvh5lRaLVJMVTbex3+XaBLm8GLWwUnG6OnetPb6+Np3Q1jvJnAi+g==",
   "success": true,
   "projectFilePath": "/Users/juanito/Projects/semana3JP/semana3JP/semana3JP.iOS/semana3JP.iOS.csproj",
   "expectedPackageFiles": [
@@ -8,5 +8,32 @@
     "/Users/juanito/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
     "/Users/juanito/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.4 to 1.7.0. Reference the package directly from the project to select a different version. \n semana3JP.iOS -> semana3JP -> Xamarin.Essentials (>= 1.7.4) \n semana3JP.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2545 to 5.0.0.2196. Reference the package directly from the project to select a different version. \n semana3JP.iOS -> semana3JP -> Xamarin.Forms (>= 5.0.0.2545) \n semana3JP.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

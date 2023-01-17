@@ -1,25 +1,21 @@
-﻿<Properties StartupConfiguration="{72081298-62A8-4C5B-AC8E-8E4EB82C29E8}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.semana3JP.iOS FirstBuild="True" />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{72081298-62A8-4C5B-AC8E-8E4EB82C29E8}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.semana3JP.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="semana3JP" expanded="True" selected="True">
-            <Node name="semana3JP" expanded="True">
-              <Node name="Registro.xaml" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="semana3JP" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.semana3JP.iOS FirstBuild="True" />
 </Properties>
